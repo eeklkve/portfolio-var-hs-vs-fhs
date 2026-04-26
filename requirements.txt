@@ -1,0 +1,11 @@
+numpy>=1.22
+pandas>=1.4
+scipy>=1.8
+matplotlib>=3.5
+seaborn>=0.12
+yfinance>=0.2
+arch>=7.0
+statsmodels>=0.14
+tqdm>=4.64
+pillow>=9.0
+jupyter>=1.0
