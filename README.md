@@ -41,9 +41,6 @@ Both methods produce a breach rate close to the 5% target, but HS clusters its b
   - [Backtests](#backtests)
 - [Results](#results)
 - [Repository structure](#repository-structure)
-- [Quickstart](#quickstart)
-- [Reproducing the figures and animations](#reproducing-the-figures-and-animations)
-- [Deploying to GitHub](#deploying-to-github)
 - [References](#references)
 
 ---
